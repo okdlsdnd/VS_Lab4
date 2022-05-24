@@ -25,7 +25,7 @@ Lab4
 
 이번 Lab에서 사용할 모델은 YOLOv5 모델이며 그 중에서도 컴퓨터 사양과 속도, 그리고 정확성을 고려하여 yolov5l 모델을 사용하였다.
 
-또한 더욱 정확한 검출을 위하여 Confidence와 IoU의 Treshold 값을 각각 지정해준다.
+또한 더욱 정확한 검출을 위하여 Confidence와 IoU의 Threshold 값을 각각 지정해준다.
 
 이번 Lab의 목표는 자동차 만을 검출해 내는 것이기 때문에 coco class에서 'car' 만을 사용할 것이다. 따라서 검출할 class 또한 지정해준다.
 
